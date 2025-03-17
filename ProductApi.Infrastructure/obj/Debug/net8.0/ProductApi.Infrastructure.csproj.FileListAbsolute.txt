@@ -9,3 +9,12 @@ C:\running_projects\ECommerceMicroserviceProject\DemoECommerce.ProductApiSolutio
 C:\running_projects\ECommerceMicroserviceProject\DemoECommerce.ProductApiSolution\ProductApi.Infrastructure\obj\Debug\net8.0\refint\ProductApi.Infrastructure.dll
 C:\running_projects\ECommerceMicroserviceProject\DemoECommerce.ProductApiSolution\ProductApi.Infrastructure\obj\Debug\net8.0\ProductApi.Infrastructure.pdb
 C:\running_projects\ECommerceMicroserviceProject\DemoECommerce.ProductApiSolution\ProductApi.Infrastructure\obj\Debug\net8.0\ref\ProductApi.Infrastructure.dll
+C:\running_projects\ECommerceMicroserviceProject\DemoECommerce.ProductApiSolution\ProductApi.Infrastructure\bin\Debug\net8.0\eCommerce.SharedLibrary.dll
+C:\running_projects\ECommerceMicroserviceProject\DemoECommerce.ProductApiSolution\ProductApi.Infrastructure\bin\Debug\net8.0\ProductApi.Application.dll
+C:\running_projects\ECommerceMicroserviceProject\DemoECommerce.ProductApiSolution\ProductApi.Infrastructure\bin\Debug\net8.0\ProductApi.Domain.dll
+C:\running_projects\ECommerceMicroserviceProject\DemoECommerce.ProductApiSolution\ProductApi.Infrastructure\bin\Debug\net8.0\ProductApi.Application.pdb
+C:\running_projects\ECommerceMicroserviceProject\DemoECommerce.ProductApiSolution\ProductApi.Infrastructure\bin\Debug\net8.0\eCommerce.SharedLibrary.pdb
+C:\running_projects\ECommerceMicroserviceProject\DemoECommerce.ProductApiSolution\ProductApi.Infrastructure\bin\Debug\net8.0\ProductApi.Domain.pdb
+C:\running_projects\ECommerceMicroserviceProject\DemoECommerce.ProductApiSolution\ProductApi.Infrastructure\obj\Debug\net8.0\ProductApi.Infrastructure.csproj.AssemblyReference.cache
+C:\running_projects\ECommerceMicroserviceProject\DemoECommerce.ProductApiSolution\ProductApi.Infrastructure\obj\Debug\net8.0\ProductApi.Infrastructure.sourcelink.json
+C:\running_projects\ECommerceMicroserviceProject\DemoECommerce.ProductApiSolution\ProductApi.Infrastructure\obj\Debug\net8.0\ProductA.D44E8AF8.Up2Date

@@ -9,3 +9,4 @@ C:\running_projects\ECommerceMicroserviceProject\DemoECommerce.ProductApiSolutio
 C:\running_projects\ECommerceMicroserviceProject\DemoECommerce.ProductApiSolution\ProductApi.Domain\obj\Debug\net8.0\refint\ProductApi.Domain.dll
 C:\running_projects\ECommerceMicroserviceProject\DemoECommerce.ProductApiSolution\ProductApi.Domain\obj\Debug\net8.0\ProductApi.Domain.pdb
 C:\running_projects\ECommerceMicroserviceProject\DemoECommerce.ProductApiSolution\ProductApi.Domain\obj\Debug\net8.0\ref\ProductApi.Domain.dll
+C:\running_projects\ECommerceMicroserviceProject\DemoECommerce.ProductApiSolution\ProductApi.Domain\obj\Debug\net8.0\ProductApi.Domain.sourcelink.json
