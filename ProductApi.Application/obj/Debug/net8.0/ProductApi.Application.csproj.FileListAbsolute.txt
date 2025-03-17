@@ -1,0 +1,11 @@
+C:\running_projects\ECommerceMicroserviceProject\DemoECommerce.ProductApiSolution\ProductApi.Application\bin\Debug\net8.0\ProductApi.Application.deps.json
+C:\running_projects\ECommerceMicroserviceProject\DemoECommerce.ProductApiSolution\ProductApi.Application\bin\Debug\net8.0\ProductApi.Application.dll
+C:\running_projects\ECommerceMicroserviceProject\DemoECommerce.ProductApiSolution\ProductApi.Application\bin\Debug\net8.0\ProductApi.Application.pdb
+C:\running_projects\ECommerceMicroserviceProject\DemoECommerce.ProductApiSolution\ProductApi.Application\obj\Debug\net8.0\ProductApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\running_projects\ECommerceMicroserviceProject\DemoECommerce.ProductApiSolution\ProductApi.Application\obj\Debug\net8.0\ProductApi.Application.AssemblyInfoInputs.cache
+C:\running_projects\ECommerceMicroserviceProject\DemoECommerce.ProductApiSolution\ProductApi.Application\obj\Debug\net8.0\ProductApi.Application.AssemblyInfo.cs
+C:\running_projects\ECommerceMicroserviceProject\DemoECommerce.ProductApiSolution\ProductApi.Application\obj\Debug\net8.0\ProductApi.Application.csproj.CoreCompileInputs.cache
+C:\running_projects\ECommerceMicroserviceProject\DemoECommerce.ProductApiSolution\ProductApi.Application\obj\Debug\net8.0\ProductApi.Application.dll
+C:\running_projects\ECommerceMicroserviceProject\DemoECommerce.ProductApiSolution\ProductApi.Application\obj\Debug\net8.0\refint\ProductApi.Application.dll
+C:\running_projects\ECommerceMicroserviceProject\DemoECommerce.ProductApiSolution\ProductApi.Application\obj\Debug\net8.0\ProductApi.Application.pdb
+C:\running_projects\ECommerceMicroserviceProject\DemoECommerce.ProductApiSolution\ProductApi.Application\obj\Debug\net8.0\ref\ProductApi.Application.dll
