@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\running_projects\\ECommerceMicroserviceProject\\DemoECommerce.ProductApiSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4C7A7DBD-D46C-43B8-9874-D8F2BA7ECD14}|ProductApi.Application\\ProductApi.Application.csproj|c:\\running_projects\\ecommercemicroserviceproject\\demoecommerce.productapisolution\\productapi.application\\dtos\\conversions\\productconversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C7A7DBD-D46C-43B8-9874-D8F2BA7ECD14}|ProductApi.Application\\ProductApi.Application.csproj|solutionrelative:productapi.application\\dtos\\conversions\\productconversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EEF1C9D5-E62C-4BFE-A72A-EF5D451BA506}|ProductApi.Presentation\\ProductApi.Presentation.csproj|c:\\running_projects\\ecommercemicroserviceproject\\demoecommerce.productapisolution\\productapi.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EEF1C9D5-E62C-4BFE-A72A-EF5D451BA506}|ProductApi.Presentation\\ProductApi.Presentation.csproj|solutionrelative:productapi.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C7A7DBD-D46C-43B8-9874-D8F2BA7ECD14}|ProductApi.Application\\ProductApi.Application.csproj|c:\\running_projects\\ecommercemicroserviceproject\\demoecommerce.productapisolution\\productapi.application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C7A7DBD-D46C-43B8-9874-D8F2BA7ECD14}|ProductApi.Application\\ProductApi.Application.csproj|solutionrelative:productapi.application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{53C9BF7C-F34F-4C2C-96BE-5221DF86FA60}|ProductApi.Domain\\ProductApi.Domain.csproj|c:\\running_projects\\ecommercemicroserviceproject\\demoecommerce.productapisolution\\productapi.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53C9BF7C-F34F-4C2C-96BE-5221DF86FA60}|ProductApi.Domain\\ProductApi.Domain.csproj|solutionrelative:productapi.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EEF1C9D5-E62C-4BFE-A72A-EF5D451BA506}|ProductApi.Presentation\\ProductApi.Presentation.csproj|c:\\running_projects\\ecommercemicroserviceproject\\demoecommerce.productapisolution\\productapi.presentation\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EEF1C9D5-E62C-4BFE-A72A-EF5D451BA506}|ProductApi.Presentation\\ProductApi.Presentation.csproj|solutionrelative:productapi.presentation\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,50 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ProductConversion.cs",
-              "DocumentMoniker": "C:\\running_projects\\ECommerceMicroserviceProject\\DemoECommerce.ProductApiSolution\\ProductApi.Application\\DTOs\\Conversions\\ProductConversion.cs",
-              "RelativeDocumentMoniker": "ProductApi.Application\\DTOs\\Conversions\\ProductConversion.cs",
-              "ToolTip": "C:\\running_projects\\ECommerceMicroserviceProject\\DemoECommerce.ProductApiSolution\\ProductApi.Application\\DTOs\\Conversions\\ProductConversion.cs",
-              "RelativeToolTip": "ProductApi.Application\\DTOs\\Conversions\\ProductConversion.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwCwAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T11:18:15.53Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\running_projects\\ECommerceMicroserviceProject\\DemoECommerce.ProductApiSolution\\ProductApi.Presentation\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductApi.Presentation\\appsettings.json",
+              "ToolTip": "C:\\running_projects\\ECommerceMicroserviceProject\\DemoECommerce.ProductApiSolution\\ProductApi.Presentation\\appsettings.json",
+              "RelativeToolTip": "ProductApi.Presentation\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-17T12:52:51.074Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ProductDTO.cs",
-              "DocumentMoniker": "C:\\running_projects\\ECommerceMicroserviceProject\\DemoECommerce.ProductApiSolution\\ProductApi.Application\\DTOs\\ProductDTO.cs",
-              "RelativeDocumentMoniker": "ProductApi.Application\\DTOs\\ProductDTO.cs",
-              "ToolTip": "C:\\running_projects\\ECommerceMicroserviceProject\\DemoECommerce.ProductApiSolution\\ProductApi.Application\\DTOs\\ProductDTO.cs",
-              "RelativeToolTip": "ProductApi.Application\\DTOs\\ProductDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T11:12:44.928Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\running_projects\\ECommerceMicroserviceProject\\DemoECommerce.ProductApiSolution\\ProductApi.Domain\\Entities\\Product.cs",
-              "RelativeDocumentMoniker": "ProductApi.Domain\\Entities\\Product.cs",
-              "ToolTip": "C:\\running_projects\\ECommerceMicroserviceProject\\DemoECommerce.ProductApiSolution\\ProductApi.Domain\\Entities\\Product.cs",
-              "RelativeToolTip": "ProductApi.Domain\\Entities\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T10:34:48.512Z",
-              "EditorCaption": ""
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\running_projects\\ECommerceMicroserviceProject\\DemoECommerce.ProductApiSolution\\ProductApi.Presentation\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ProductApi.Presentation\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\running_projects\\ECommerceMicroserviceProject\\DemoECommerce.ProductApiSolution\\ProductApi.Presentation\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ProductApi.Presentation\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-17T12:51:45.575Z"
             }
           ]
         }

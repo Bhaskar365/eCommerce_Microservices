@@ -32,7 +32,6 @@ namespace ProductApi.Infrastructure.Repositories
                     return new Response(true, $"{entity.Name} added to database successfully");
                 else
                     return new Response(false, $"Error occured while adding {entity.Name}");
-
             }
             catch (Exception ex)
             {
