@@ -153,3 +153,7 @@ C:\running_projects\ECommerceMicroserviceProject\DemoECommerce.ProductApiSolutio
 C:\running_projects\ECommerceMicroserviceProject\DemoECommerce.ProductApiSolution\ProductApi.Presentation\bin\Debug\net8.0\ProductApi.Application.pdb
 C:\running_projects\ECommerceMicroserviceProject\DemoECommerce.ProductApiSolution\ProductApi.Presentation\bin\Debug\net8.0\ProductApi.Domain.pdb
 C:\running_projects\ECommerceMicroserviceProject\DemoECommerce.ProductApiSolution\ProductApi.Presentation\obj\Debug\net8.0\ProductApi.Presentation.sourcelink.json
+C:\running_projects\ECommerceMicroserviceProject\DemoECommerce.ProductApiSolution\ProductApi.Presentation\bin\Debug\net8.0\ProductApi.Presentation.staticwebassets.endpoints.json
+C:\running_projects\ECommerceMicroserviceProject\DemoECommerce.ProductApiSolution\ProductApi.Presentation\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\running_projects\ECommerceMicroserviceProject\DemoECommerce.ProductApiSolution\ProductApi.Presentation\obj\Debug\net8.0\staticwebassets\msbuild.ProductApi.Presentation.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\running_projects\ECommerceMicroserviceProject\DemoECommerce.ProductApiSolution\ProductApi.Presentation\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

@@ -39,8 +39,27 @@ namespace ProductApi.Presentation.Controllers
         {
             if (!ModelState.IsValid) return BadRequest(ModelState);
 
+            var getEntity = ProductConversion.ToEntity(product);
+            var response = await productInterface.CreateAsync(getEntity);
+            return response.Flag is true ? Ok(response) : BadRequest(response);
+        }
 
+        [HttpPut]
+        public async Task<ActionResult<Response>> UpdateProduct(ProductDTO product) 
+        {
+            if (!ModelState.IsValid) return BadRequest(ModelState);
 
+            var getEntity = ProductConversion.ToEntity(product);
+            var response = await productInterface.UpdateAsync(getEntity);
+            return response.Flag is true ? Ok(response) : BadRequest(response);
+        }
+
+        [HttpDelete]
+        public async Task<ActionResult<Response>> DeleteProduct(ProductDTO product) 
+        {
+            var getEntity = ProductConversion.ToEntity(product);
+            var response = await productInterface.DeleteAsync(getEntity);
+            return response.Flag is true ? Ok(response) : BadRequest(response);
         }
     }
 }
